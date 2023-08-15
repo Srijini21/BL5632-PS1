@@ -1,4 +1,4 @@
-## Shristi and Srijini’s Snakefile 
+## Snakefile 
 
 from snakemake.remote.S3 import RemoteProvider as S3RemoteProvider
 S3=S3RemoteProvider()
